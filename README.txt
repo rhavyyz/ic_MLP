@@ -1,0 +1,2 @@
+Este dataset passou por um processo de pré-processamento, que consistiu da remoção de dados duplicados e outliers. Além disso,
+ocorreu o tratamento dos dados categóricos e o redimensionamento da base.
